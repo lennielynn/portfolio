@@ -1,5 +1,5 @@
 import Home from './components/Home';
-import AboutMe from './components/AboutMe';
+// import AboutMe from './components/AboutMe';
 import Projects from './components/Projects';
 import Resume from './components/Resume';
 import Header from './components/Header';
@@ -15,7 +15,7 @@ function App() {
       <Header/>
         <Routes>
           <Route path='/' element={<Home/>}/>
-          <Route path='/aboutme' element={<AboutMe/>}/>
+          {/* <Route path='/aboutme' element={<AboutMe/>}/> */}
           <Route path='/projects' element={<Projects/>}/>
           <Route path='/resume' element={<Resume/>}/>
         </Routes>
