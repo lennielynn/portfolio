@@ -25,10 +25,10 @@ const Home = () => {
                         Email: lylaguthrie23@gmail.com<br/>
                     </h4>
                     <div id="social-bar">
-                        <CiLinkedin id="linkedin" 
-                        // onClick={"https://www.linkedin.com/in/lylaguthrie/}"}
-                        />
+                        <CiLinkedin id="linkedin"/>
+                        <button>
                         <FaGithub id="github" />
+                        </button>
 
                     </div>
                 </div>
