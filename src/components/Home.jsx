@@ -1,6 +1,6 @@
  import { CiLinkedin } from "react-icons/ci";
  import { FaGithub } from "react-icons/fa";
-import { useHref } from "react-router-dom";
+import { useHref, Link } from "react-router-dom";
 
 const Home = () => {
      return(
@@ -25,10 +25,16 @@ const Home = () => {
                         Email: lylaguthrie23@gmail.com<br/>
                     </h4>
                     <div id="social-bar">
-                        <CiLinkedin id="linkedin"/>
-                        <button>
+                        <Link to="https://github.com/lennielynn">
+                        <button class="button">
                         <FaGithub id="github" />
                         </button>
+                        </Link>
+                        <Link to="https://www.linkedin.com/in/lylaguthrie/">
+                        <button class="button">
+                        <CiLinkedin id="linkedin"/>
+                        </button>
+                        </Link>
 
                     </div>
                 </div>

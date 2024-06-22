@@ -33,6 +33,14 @@ h3 {
     font-size: 40px;
 }
 
+.button{
+    border: 1px, black, solid;
+    border-radius: 180px;
+    margin: 10px;
+    width: 70px;
+    height: 70px;
+}
+
 /* FOOTER */
 
 #footer-signature{
@@ -142,10 +150,11 @@ h3 {
     }
     p{
         font-size: 30px;
-        margin: 50px 110px;
+        margin: 50px 10px;
         padding: 40px;
         background-color:rgb(245, 245, 245);
         border-radius: 15px;
+        text-align: left;
     }
 
 }
