@@ -35,9 +35,9 @@ function Header() {
                     title="Projects"
                     id={`offcanvasNavbarDropdown-expand-${expand}`}
                   >
-                    <NavDropdown.Item  href="https://654c055c85c76655d8626473--weatherapp-lyla.netlify.app/" target="_blank">
+                    <NavDropdown.Item  href="https://week7-weekend.vercel.app/" target="_blank">
                       Weather App</NavDropdown.Item>
-                    <NavDropdown.Item href="#capstonelink">
+                    <NavDropdown.Item href="https://capstone-f2i3-cytkhhs8n-lennielynns-projects.vercel.app/">
                       Garage App
                     </NavDropdown.Item>
                   </NavDropdown>

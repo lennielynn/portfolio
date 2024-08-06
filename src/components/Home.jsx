@@ -6,15 +6,17 @@ const Home = () => {
      return(
       <div id="about-me-pg">
             <div id="hero-img">
-                <h1 id="hero-txt">Lyla Guhtrie</h1>
+                <h1 id="hero-txt">Lyla Guthrie</h1>
                 <h3 id="hero-txt2">Software Developer</h3>
             </div>
             
-            <main id="info">
+            <main>
                 <h2>About Me</h2>
-                <p>
-                   Hello all. My name is Lyla Guthrie, I am an 18 year old with a passion for computer science and software development, and a zeal for problem solving. From the time I was young I've taken interest in specific detail and have a love of learning. <br/> The reason I've chosen Software Development as my field of work is because of my love of continual learning and my unique sense of interest when in the area of tech, aswell as my love for the flexability in schedule the job makes avalbillity for. I am a hard worker, avid learner, and personable. My backrground as an Martial artist/instructor has taught me the people skills, discipline, and team work skills necesary to complete the tasks I am given well and in a timely manor.  
+                <div id="info">
+                <p id="abt-me-paragraph">
+                   Hello all! My name is Lyla Guthrie, I am an 19 year old with a passion for computer science and software development, and a zeal for problem solving. From the time I was young I've taken interest in specific detail and have a love for problem solving. The reason I've chosen Software Development as my field of work is because of my love of continual learning and my unique sense of interest when in the area of tech. I am a hard worker, and continual learner with a nessecity to create. Thank you for visiting my Portfolio, feel free to contact me! 
                 </p>
+                </div>
             </main>
             <div id="contact-card">
                 <img id="me-img" src="./images/me.jpg" alt="me" />

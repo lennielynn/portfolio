@@ -10,9 +10,9 @@ export default function Resume(){
                 <a 
                 rel="noreferrer"
                 target="_blank"
-                href="https://docs.google.com/document/d/18D2ir2YvUQ2DFwji0eXGeW-T5KHq0QMXlj8VshI3Pjk/edit?usp=sharing"
+                href="https://docs.google.com/document/d/1IINQIJPQu9_p8j2BcXIKaZU2iLfujOMRMspc39W9Hyw/edit?usp=sharing"
                 >RESUME</a>
-                <iframe title="resume" id="resume-link" src="https://docs.google.com/document/d/18D2ir2YvUQ2DFwji0eXGeW-T5KHq0QMXlj8VshI3Pjk/edit?usp=sharing"/>
+                <iframe title="resume" id="resume-link" src="https://docs.google.com/document/d/1IINQIJPQu9_p8j2BcXIKaZU2iLfujOMRMspc39W9Hyw/edit?usp=sharing"/>
             </div>
         </div>
     )
